@@ -10,7 +10,7 @@ public class SamplePractice {
 		String s1 ="53672";
 		int i = Integer.parseInt(s1);
 		System.out.println(i);
-	   System.out.println("Done 2");
+	   System.out.println("Done 2");   System.out.println(done 2"");
 		
 	}
 	}
